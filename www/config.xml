@@ -4,9 +4,9 @@
 <widget xmlns                   = "http://www.w3.org/ns/widgets"
         xmlns:gap               = "http://phonegap.com/ns/1.0"
         id                      = "air.customerAPP"
-        versionCode	        = "1600000"
-        ios-CFBundleVersion     = "1600580"
-        version                 = "1.6.0">
+        versionCode	        = "1700000"
+        ios-CFBundleVersion     = "1700080"
+        version                 = "1.7.0">
         
         <!-- App ID for Android: air.customerAPP -->
         <!-- App ID for iOS: se.hotmat.customer -->
@@ -45,7 +45,7 @@
     <preference name="disable-cursor"             value="false" />          <!-- blackberry: prevents a mouse-icon/cursor from being displayed on the app -->
     <preference name="android-minSdkVersion"      value="15" />              <!-- android: MIN SDK version supported on the target device. MAX version is blank by default. -->
     <preference name="android-installLocation"    value="auto" />           <!-- android: app install location. 'auto' will choose. 'internalOnly' is device memory. 'preferExternal' is SDCard. -->
-    <preference name="phonegap-version" value="cli-6.3.0" />
+    <preference name="phonegap-version" value="cli-6.5.0" />
     <preference name="android-build-tool" value="gradle" />    
     
      
@@ -72,7 +72,7 @@
 <plugin name="cordova-plugin-inappbrowser" spec="1.5.0" />
 <plugin name="cordova-plugin-splashscreen" spec="4.0.0" />
 <plugin name="cordova-plugin-statusbar" spec="2.2.0" />
-<plugin name="org.apache.cordova.device" source="pgb" spec="0.3.0" />
+<plugin name="org.apache.cordova.device" source="pgb"/>
 <plugin name="phonegap-plugin-push" source="pgb" spec="1.4.2" />   
         
     <plugin name="cordova-plugin-facebook4" source="npm" spec="1.7.3">
