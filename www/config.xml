@@ -4,8 +4,8 @@
 <widget xmlns                   = "http://www.w3.org/ns/widgets"
         xmlns:gap               = "http://phonegap.com/ns/1.0"
         id                      = "air.customerAPP"
-        versionCode	        = "1700000"
-        ios-CFBundleVersion     = "1700080"
+        versionCode	        = "1700001"
+        ios-CFBundleVersion     = "1700081"
         version                 = "1.7.0">
         
         <!-- App ID for Android: air.customerAPP -->
