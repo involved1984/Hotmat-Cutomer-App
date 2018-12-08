@@ -53,7 +53,7 @@
         
     <preference name="AutoHideSplashScreen " value="false" />
     <preference name="SplashScreen" value="img/logo.png" /> <!-- defaults to "img/logo.png" -->
-    <preference name="SplashScreenDelay" value="10000" /> <!-- defaults to "3000" -->
+    <preference name="SplashScreenDelay" value="1000" /> <!-- defaults to "3000" -->
     <preference name="SplashScreenBackgroundColor" value="#e63234" /> <!-- defaults to "#464646" -->
     <preference name="ShowSplashScreen" value="true" /> <!-- defaults to "true" -->
     <preference name="SplashScreenWidth" value="170" /> <!-- defaults to "170" -->
